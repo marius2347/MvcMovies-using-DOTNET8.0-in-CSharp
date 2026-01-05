@@ -41,7 +41,7 @@ To run this project locally, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/marius2347/MvcMovies-using-DOTNET8.0-in-CSharp.git](https://github.com/marius2347/MvcMovies-using-DOTNET8.0-in-CSharp.git)
+    git clone https://github.com/marius2347/MvcMovies-using-DOTNET8.0-in-CSharp.git
     ```
 2.  **Open the project:**
     Open the solution file (`.sln`) in **Visual Studio 2022**.
