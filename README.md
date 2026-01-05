@@ -1,6 +1,6 @@
 # MvcMovies - ASP.NET Core MVC App (.NET 8.0)
 
-A Movie Management Web Application built using C# and **ASP.NET Core MVC (.NET 8.0)**. This project follows the official [Microsoft ASP.NET Core MVC tutorial](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-8.0&tabs=visual-studio) to demonstrate full CRUD (Create, Read, Update, Delete) functionality, Entity Framework Core integration, and search capabilities.
+A Movie Management Web Application built using C# and **ASP.NET Core MVC (.NET 8.0)**. This project follows the official Microsoft ASP.NET Core MVC tutorial to demonstrate full CRUD (Create, Read, Update, Delete) functionality, Entity Framework Core integration, and search capabilities.
 
 ## 🚀 Features
 
@@ -63,4 +63,3 @@ To run this project locally, follow these steps:
 If you have any questions or suggestions regarding this project, feel free to reach out:
 
 * **Email:** [mariusc0023@gmail.com](mailto:mariusc0023@gmail.com)
-* **GitHub:** [marius2347](https://github.com/marius2347)
